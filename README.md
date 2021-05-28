@@ -1,6 +1,6 @@
 # [go back to Simplified content index](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
 
-# 1. [Introduction](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 1. [Introduction](https://github.com/c4arl0s/1IntroductionUAUCPointers#1-introduction-uauc-pointers)
   - [x] [Pointers and Memory ](https://github.com/c4arl0s/1IntroductionUAUCPointers#--pointers-and-memory-)
     + [x] [Why You Should Become Proficient with Pointers ](https://github.com/c4arl0s/1IntroductionUAUCPointers#-why-you-should-become-proficient-with-pointers-)
     + [x] [Declaring Pointers ](https://github.com/c4arl0s/1IntroductionUAUCPointers#-declaring-pointers-)
@@ -36,7 +36,7 @@
     + [x] [Pointer to (constant pointer to constant)](https://github.com/c4arl0s/1IntroductionUAUCPointers#-pointer-to-constant-pointer-to-constant)
   - [ ] [Summary](https://github.com/c4arl0s/1IntroductionUAUCPointers#--summary)
 
-# 2. [Dynamic Memory Management in C](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 2. [Dynamic Memory Management in C](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#2-dynamic-memory-management-in-c)
   - [x] [Dynamic Memory Allocation](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#--dynamic-memory-allocation)
     + [x] [Memory Leaks](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#-memory-leaks)
     + [x] [Losing the address](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#-losing-the-address)
@@ -64,7 +64,7 @@
     + [x] [Resource Acquisition Is Initialization ](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#-resource-acquisition-is-initialization-)
     + [x] [Using Exception Handlers 56 Summary](https://github.com/c4arl0s/2DynamicMemoryManagementInCUAUCPointers#-using-exception-handlers-56-summary)
 
-# 3. [Pointers and Functions](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 3. [Pointers and Functions](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#3-pointers-and-functions)
   - [x] [Program Stack and Heap ](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#--program-stack-and-heap-)
     + [x] [Program Stack ](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#-program-stack-)
     + [x] [Organization of a Stack Frame](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#-organization-of-a-stack-frame)
@@ -87,7 +87,7 @@
     + [x] [Casting Function Pointers](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#-casting-function-pointers)
   - [x] [Summary](https://github.com/c4arl0s/3PointersAndFunctionsUAUCPointers#--summary)
 
-# 4. [Pointers and Arrays](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 4. [Pointers and Arrays](https://github.com/c4arl0s/4PointersAndArraysUAUCPointers#4-pointers-and-arrays)
   - [x] [Quick Review of Arrays ](https://github.com/c4arl0s/4PointersAndArraysUAUCPointers#--quick-review-of-arrays-)
     + [x] [One-Dimensional Arrays](https://github.com/c4arl0s/4PointersAndArraysUAUCPointers#-one-dimensional-arrays)
     + [x] [Two-Dimensional Arrays](https://github.com/c4arl0s/4PointersAndArraysUAUCPointers#-two-dimensional-arrays)
@@ -109,7 +109,7 @@
   - [x] [Jagged Arrays and Pointers](https://github.com/c4arl0s/4PointersAndArraysUAUCPointers#--jagged-arrays-and-pointers)
   - [ ] [Summary]()
 
-# 5. [Pointers and Strings](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 5. [Pointers and Strings](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#5-pointers-and-strings)
   - [x] [String Fundamentals ](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#--string-fundamentals-)
     + [x] [String Declaration ](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#-string-declaration-)
     + [x] [The String Literal Pool ](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#-the-string-literal-pool-)
@@ -135,7 +135,7 @@
   - [x] [Function Pointers and Strings](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#--function-pointers-and-strings)
   - [ ] [Summary](https://github.com/c4arl0s/5PointersAndStringsUAUCPointers#--summary)
 
-# 6. [Pointers and Structures](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 6. [Pointers and Structures](https://github.com/c4arl0s/6PointersAndStructures#6-pointers-and-structures)
   - [x] [Introduction](https://github.com/c4arl0s/6PointersAndStructuresUAUCPointers#--introduction)
     + [x] [How Memory Is Allocated for a Structure](https://github.com/c4arl0s/6PointersAndStructuresUAUCPointers#-how-memory-is-allocated-for-a-structure)
   - [x] [Structure Deallocation Issues](https://github.com/c4arl0s/6PointersAndStructuresUAUCPointers#--structure-deallocation-issues)
@@ -147,7 +147,7 @@
     + [x] [Using Pointers to Support a Tree ](https://github.com/c4arl0s/6PointersAndStructuresUAUCPointers#-using-pointers-to-support-a-tree-)
   - [x] [Summary 158](https://github.com/c4arl0s/6PointersAndStructuresUAUCPointers#--summary-158)
 
-# 7. [Security Issues And The Improper Use Of Pointers](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 7. [Security Issues And The Improper Use Of Pointers](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#-7-security-issues-and-the-improper-use-of-pointers)
 1. [x] [Pointer Declaration and Initialization](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#1-pointer-declaration-and-initialization)
 2. [x] [Improper Pointer Declaration](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#2-improper-pointer-declaration)
 3. [x] [Failure to Initialize a Pointer Before It Is Used](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#3-failure-to-initialize-a-pointer-before-it-is-used)
@@ -170,7 +170,7 @@
 20. [x] [Using Static Analysis Tools](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#20-using-static-analysis-tools)
 21. [ ] [Summary](https://github.com/c4arl0s/7SecurityIssuesAndTheImproperUseOfPointers#21-summary)
 
-# 8. [Odds And Ends](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# 8. [Odds And Ends](https://github.com/c4arl0s/8OddsAndEnds#8-odds-and-ends)
 1. [x] [Casting Pointers](https://github.com/c4arl0s/8OddsAndEnds#1-casting-pointers)
 2. [x] [Accessing a Special Purpose Address](https://github.com/c4arl0s/8OddsAndEnds#2-accessing-a-special-purpose-address)
 3. [x] [Accessing a Port](https://github.com/c4arl0s/8OddsAndEnds#3-accessing-a-port)
