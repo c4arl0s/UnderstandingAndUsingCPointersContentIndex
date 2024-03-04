@@ -1,4 +1,4 @@
-# [go back to Simplified content index](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
+# [go back to content](https://github.com/c4arl0s/UnderstandingAndUsingCPointers#understandingandusingcpointers)
 
 # 1. [Introduction](https://github.com/c4arl0s/1IntroductionUAUCPointers#1-introduction-uauc-pointers)
   - [x] [Pointers and Memory ](https://github.com/c4arl0s/1IntroductionUAUCPointers#--pointers-and-memory-)
